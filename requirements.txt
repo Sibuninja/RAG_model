@@ -1,7 +1,7 @@
 langchain
 openai
 faiss-cpu
-tiktoken
-pypdf
 python-dotenv
 gradio
+pypdf
+tiktoken
